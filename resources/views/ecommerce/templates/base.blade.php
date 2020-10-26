@@ -45,48 +45,13 @@
 <link rel="stylesheet" href="{{ asset ('assets2/css/slick-slider/slick.css')}}">
 <link rel="stylesheet" href="{{ asset ('assets2/css/themify-icons.css')}}">
 <link rel="stylesheet" href="{{ asset ('assets2/css/base.css')}}">
+link rel="stylesheet" href="{{ asset ('assets2/css/base1.css')}}">
 
 
   <!--== style -->
   <link rel="stylesheet" href="{{ asset ('assets2/css/style2.css')}}">
 
-    <style>
-        html,
-        body {
-            max-width: 100%;
-            overflow-x: hidden;
-        }
-
-        .eeq {
-            width: 100px;
-            padding: 15px;
-        }
-        .images {
-            width: 60px;
-            height: 60px;
-            cursor: pointer;
-            border-radius: 10px;
-            margin-bottom: 5px;
-        }
-        .label {
-            color: white; width: 100%;
-        }
-
-        @media only screen and (max-width: 500px) {
-
-            html,
-            body {
-                max-width: 100%;
-                overflow-x: hidden;
-            }
-
-            .eeq {
-                width: calc(16.6667%);
-                padding: 15px;
-            }
-        }
-
-    </style>
+   
 </head>
 
 <body>
